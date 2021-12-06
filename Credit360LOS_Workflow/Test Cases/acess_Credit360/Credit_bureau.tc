@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ensure user can upload credit bureau report</description>
+   <name>Credit_bureau</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eac5c2f7-f502-4553-823d-8da0afaaad9e</testCaseGuid>
+</TestCaseEntity>

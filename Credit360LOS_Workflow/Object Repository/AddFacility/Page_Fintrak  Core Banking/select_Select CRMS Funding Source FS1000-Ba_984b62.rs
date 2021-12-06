@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select CRMS Funding Source FS1000-Ba_984b62</name>
+   <tag></tag>
+   <elementGuidId>64ac311b-aef2-4969-a229-5ac9049d8d96</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='crmsFundingSourceId']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#crmsFundingSourceId</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control required-input ng-untouched ng-pristine ng-invalid</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formcontrolname</name>
+      <type>Main</type>
+      <value>crmsFundingSourceId</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>crmsFundingSourceId</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>crmsFundingSourceId</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Select CRMS Funding Source FS1000-Balance Sheet  FS2001-CBN Intervention Funds - Agriculture Credit Guarantee Scheme Fund (ACGSF)   FS2002-CBN Intervention Funds - Commercial Agriculture Credit Scheme (CACS)   FS2003-CBN Intervention Funds - Nigeria Incentive-based Risk sharing System for Agricultural Lending (NIRSAL)   FS2004-CBN Intervention Funds - Power &amp; Airline Intervention Fund (PAIF)   FS2005-CBN Intervention Funds - Nigeria Electricity Market Stabilization Fund (NEMSF)   FS2006-CBN Intervention Funds - Real Sector Support Facility (RSSF)   FS2007-CBN Intervention Funds - SME Credit Guarantee Scheme (SMECGS)   FS2008-CBN Intervention Funds - SME Re-structuring and Refinancing Facility (SMERRF)   FS2009-CBN Intervention Funds - Micro Small and Medium Enterprises Development Fund (MSMEDF)   FS2010-CBN Intervention Funds - Anchor Borrowers’ Programme (ABP)   FS2011-CBN Intervention Funds - Nigeria Textile Intervention Fund   FS2012-CBN Intervention Funds - Non-Oil Export Stimulation Facility (ESF)  FS2013-CBN Intervention Funds - Youth Entrepreneurship Development Programme (YEDP)   FS3000-Federal Govt. Intervention Funds  FS4000-State Govt. Intervention Funds  FS5000-NGO - Local  FS6001-NGO - International  FS6000-Foreign Credit Line </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;crmsFundingSourceId&quot;)</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='crmsFundingSourceId']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='entry']/div/form/div/div[7]/div/select</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CRMS Funding Source'])[1]/following::select[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Exchange Amount'])[1]/following::select[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CRMS Repayment Source'])[1]/preceding::select[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Facility Purpose'])[1]/preceding::select[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/select</value>
+   </webElementXpaths>
+</WebElementEntity>

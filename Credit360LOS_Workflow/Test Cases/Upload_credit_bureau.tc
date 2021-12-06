@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ensure user can upload file</description>
+   <name>Upload_credit_bureau</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cae3cdcd-bb69-4f58-af00-0f1cdfa244f0</testCaseGuid>
+</TestCaseEntity>
